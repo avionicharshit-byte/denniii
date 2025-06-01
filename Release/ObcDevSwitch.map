@@ -1,0 +1,1253 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\SmartSVN\DevSwitchBoard\Firmware\tags\V4.0\Release/arduino.ar(Print.cpp.o)
+                              .\Source\OperationModeDetection.cpp.o (symbol from plugin) (_ZN7arduino5Print5printEPKc)
+C:\SmartSVN\DevSwitchBoard\Firmware\tags\V4.0\Release/arduino.ar(Stream.cpp.o)
+                              .\Source\SerialCommunication.cpp.o (symbol from plugin) (_ZN7arduino6Stream10setTimeoutEm)
+C:\SmartSVN\DevSwitchBoard\Firmware\tags\V4.0\Release/arduino.ar(String.cpp.o)
+                              Stream.cpp.o (symbol from plugin) (_ZN7arduino6StringC1EPKc)
+C:\SmartSVN\DevSwitchBoard\Firmware\tags\V4.0\Release/arduino.ar(UART.cpp.o)
+                              .\Source\SerialCommunication.cpp.o (symbol from plugin) (_ZN9UartClass9availableEv)
+C:\SmartSVN\DevSwitchBoard\Firmware\tags\V4.0\Release/arduino.ar(UART0.cpp.o)
+                              .\Source\OperationModeDetection.cpp.o (symbol from plugin) (Serial)
+C:\SmartSVN\DevSwitchBoard\Firmware\tags\V4.0\Release/arduino.ar(abi.cpp.o)
+                              Print.cpp.o (symbol from plugin) (__cxa_pure_virtual)
+C:\SmartSVN\DevSwitchBoard\Firmware\tags\V4.0\Release/arduino.ar(main.cpp.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3/crtatmega4809.o (main)
+C:\SmartSVN\DevSwitchBoard\Firmware\tags\V4.0\Release/arduino.ar(wiring.c.o)
+                              .\libraries\Wire\src\utility\twi.c.o (symbol from plugin) (F_CPU_CORRECTED)
+C:\SmartSVN\DevSwitchBoard\Firmware\tags\V4.0\Release/arduino.ar(wiring_analog.c.o)
+                              .\Source\IoModule.cpp.o (symbol from plugin) (analogReference)
+C:\SmartSVN\DevSwitchBoard\Firmware\tags\V4.0\Release/arduino.ar(wiring_digital.c.o)
+                              wiring_analog.c.o (symbol from plugin) (digital_pin_to_timer)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3/crtatmega4809.o (exit)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtostrf.o)
+                              String.cpp.o (symbol from plugin) (dtostrf)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(atof.o)
+                              String.cpp.o (symbol from plugin) (atof)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(atoi.o)
+                              .\Source\ProtocolHandler.cpp.o (symbol from plugin) (atoi)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(atol.o)
+                              .\Source\ProtocolHandler.cpp.o (symbol from plugin) (atol)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strcpy_P.o)
+                              String.cpp.o (symbol from plugin) (strcpy_P)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strlen_P.o)
+                              String.cpp.o (symbol from plugin) (__strlen_P)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtok.o)
+                              .\Source\ProtocolHandler.cpp.o (symbol from plugin) (strtok)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strlcat.o)
+                              .\Source\ProtocolHandler.cpp.o (symbol from plugin) (strlcat)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtok_r.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtok.o) (strtok_r)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(itoa.o)
+                              String.cpp.o (symbol from plugin) (__itoa)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(itoa_ncheck.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(itoa.o) (__itoa_ncheck)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ltoa.o)
+                              String.cpp.o (symbol from plugin) (__ltoa)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ltoa_ncheck.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ltoa.o) (__ltoa_ncheck)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsi10.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(atol.o) (__mulsi_const_10)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mul10.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(atoi.o) (__mulhi_const_10)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ultoa.o)
+                              String.cpp.o (symbol from plugin) (__ultoa)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ultoa_ncheck.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ultoa.o) (__ultoa_ncheck)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(utoa.o)
+                              String.cpp.o (symbol from plugin) (__utoa)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(utoa_ncheck.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(utoa.o) (__utoa_ncheck)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtoa_prf.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtostrf.o) (dtoa_prf)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtod.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(atof.o) (strtod)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ftoa_engine.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtoa_prf.o) (__ftoa_engine)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(isspace.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtod.o) (isspace)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strncasecmp_P.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtod.o) (strncasecmp_P)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strrev.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ultoa_ncheck.o) (strrev)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(cmpsf2.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtod.o) (__eqsf2)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(floatsisf.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtod.o) (__floatunsisf)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_cmp.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(cmpsf2.o) (__fp_cmp)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtod.o) (__mulsf3)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3x.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3.o) (__mulsf3x)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(errno.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtod.o) (errno)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(cty_isfalse.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(isspace.o) (__ctype_isfalse)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_inf.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3x.o) (__fp_inf)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_nan.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3x.o) (__fp_nan)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_pscA.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3x.o) (__fp_pscA)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_pscB.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3x.o) (__fp_pscB)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_round.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3.o) (__fp_round)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_split3.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3x.o) (__fp_split3)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_zero.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3x.o) (__fp_szero)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libatmega4809.a(eerd_byte.o)
+                              .\Source\Calibration.cpp.o (symbol from plugin) (eeprom_read_byte)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libatmega4809.a(eewr_byte.o)
+                              .\Source\Calibration.cpp.o (symbol from plugin) (eeprom_write_byte)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtok.o) (__do_clear_bss)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtod.o) (__muluhisi3)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_prologue.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtoa_prf.o) (__prologue_saves__)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_epilogue.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtoa_prf.o) (__epilogue_restores__)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_umulhisi3.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o) (__umulhisi3)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+                              C:\Users\menze001\AppData\Local\Temp\ccnQcJEZ.ltrans0.ltrans.o (__udivmodhi4)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+                              C:\Users\menze001\AppData\Local\Temp\ccnQcJEZ.ltrans0.ltrans.o (__udivmodsi4)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o)
+                              C:\Users\menze001\AppData\Local\Temp\ccnQcJEZ.ltrans0.ltrans.o (__divmodsi4)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_negsi2.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o) (__negsi2)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_tablejump2.o)
+                              C:\Users\menze001\AppData\Local\Temp\ccnQcJEZ.ltrans0.ltrans.o (__tablejump2__)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+                              C:\Users\menze001\AppData\Local\Temp\ccnQcJEZ.ltrans0.ltrans.o (__do_copy_data)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+                              C:\Users\menze001\AppData\Local\Temp\ccnQcJEZ.ltrans0.ltrans.o (__do_global_ctors)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_mulshisi3.o)
+                              C:\Users\menze001\AppData\Local\Temp\ccnQcJEZ.ltrans0.ltrans.o (__mulshisi3)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strcmp.o)
+                              C:\Users\menze001\AppData\Local\Temp\ccnQcJEZ.ltrans0.ltrans.o (strcmp)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strncmp.o)
+                              C:\Users\menze001\AppData\Local\Temp\ccnQcJEZ.ltrans0.ltrans.o (strncmp)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strncpy.o)
+                              C:\Users\menze001\AppData\Local\Temp\ccnQcJEZ.ltrans0.ltrans.o (strncpy)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(snprintf.o)
+                              C:\Users\menze001\AppData\Local\Temp\ccnQcJEZ.ltrans0.ltrans.o (snprintf)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(vfprintf_std.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(snprintf.o) (vfprintf)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strnlen_P.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(vfprintf_std.o) (strnlen_P)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strnlen.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(vfprintf_std.o) (strnlen)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fputc.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(vfprintf_std.o) (fputc)
+c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ultoa_invert.o)
+                              c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(vfprintf_std.o) (__ultoa_invert)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x2               c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(errno.o)
+fract_inc           0x2               wiring.c.o (symbol from plugin)
+millis_inc          0x2               wiring.c.o (symbol from plugin)
+microseconds_per_timer_overflow
+                    0x2               wiring.c.o (symbol from plugin)
+microseconds_per_timer_tick
+                    0x2               wiring.c.o (symbol from plugin)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3/crtatmega4809.o
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3/crtatmega4809.o
+ .text          0x00000000        0x0 .\libraries\Wire\src\utility\twi.c.o (symbol from plugin)
+ .avr.prop      0x00000000       0x28 C:\Users\menze001\AppData\Local\Temp\ccnQcJEZ.ltrans0.ltrans.o
+ .text          0x00000000        0x0 .\libraries\Wire\src\Wire.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN7arduino5Print17availableForWriteEv
+                0x00000000        0x0 .\libraries\Wire\src\Wire.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZTV7TwoWire
+                0x00000000        0x0 .\libraries\Wire\src\Wire.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 .\core\variant\variant.c.o (symbol from plugin)
+ .text          0x00000000        0x0 .\Source\Calibration.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZNK5EERefdeEv
+                0x00000000        0x0 .\Source\Calibration.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN5EERef6updateEh
+                0x00000000        0x0 .\Source\Calibration.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 .\Source\ControlModule.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 .\Source\ErrorHandler.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 .\Source\InterBoardComm.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN7arduino5Print5writeEPKc
+                0x00000000        0x0 .\Source\InterBoardComm.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 .\Source\IoModule.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 .\Source\ObcDevSwitch.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 .\Source\OperationModeDetection.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 .\Source\ProtocolHandler.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 .\Source\SerialCommunication.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 .\Source\VersionInfo.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 Print.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN7arduino5Print17availableForWriteEv
+                0x00000000        0x0 Print.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN7arduino5Print5flushEv
+                0x00000000        0x0 Print.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN7arduino5Print5writeEPKc
+                0x00000000        0x0 Print.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN7arduino5Print5writeEPKcj
+                0x00000000        0x0 Print.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZTVN7arduino5PrintE
+                0x00000000        0x0 Print.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 Stream.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 String.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 UART.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN9UartClass5beginEm
+                0x00000000        0x0 UART.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN9UartClasscvbEv
+                0x00000000        0x0 UART.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZTV9UartClass
+                0x00000000        0x0 UART.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 UART0.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN9UartClass5beginEm
+                0x00000000        0x0 UART0.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN9UartClasscvbEv
+                0x00000000        0x0 UART0.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN9UartClassC5EPV12USART_structhhhh
+                0x00000000        0x0 UART0.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN9UartClass16_rx_complete_irqEv
+                0x00000000        0x0 UART0.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 abi.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 main.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 wiring.c.o (symbol from plugin)
+ .text          0x00000000        0x0 wiring_analog.c.o (symbol from plugin)
+ .text          0x00000000        0x0 wiring_digital.c.o (symbol from plugin)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtostrf.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtostrf.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtostrf.o)
+ .text.avr-libc
+                0x00000000       0x3c c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtostrf.o)
+ .comment       0x00000000       0x12 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtostrf.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(atof.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(atof.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(atof.o)
+ .text.avr-libc
+                0x00000000        0x8 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(atof.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(atoi.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(atoi.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(atoi.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(atol.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(atol.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(atol.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strcpy_P.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strcpy_P.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strcpy_P.o)
+ .text.avr-libc
+                0x00000000        0xe c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strcpy_P.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strlen_P.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strlen_P.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strlen_P.o)
+ .text.avr-libc
+                0x00000000       0x12 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strlen_P.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtok.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtok.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strlcat.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strlcat.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strlcat.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtok_r.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtok_r.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtok_r.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(itoa.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(itoa.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(itoa.o)
+ .text.avr-libc
+                0x00000000       0x16 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(itoa.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(itoa_ncheck.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(itoa_ncheck.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(itoa_ncheck.o)
+ .text.avr-libc
+                0x00000000       0x16 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(itoa_ncheck.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ltoa.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ltoa.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ltoa.o)
+ .text.avr-libc
+                0x00000000       0x16 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ltoa.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ltoa_ncheck.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ltoa_ncheck.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ltoa_ncheck.o)
+ .text.avr-libc
+                0x00000000       0x1e c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ltoa_ncheck.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsi10.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsi10.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsi10.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mul10.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mul10.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mul10.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ultoa.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ultoa.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ultoa.o)
+ .text.avr-libc
+                0x00000000       0x16 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ultoa.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ultoa_ncheck.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ultoa_ncheck.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ultoa_ncheck.o)
+ .text.avr-libc
+                0x00000000       0x44 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ultoa_ncheck.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(utoa.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(utoa.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(utoa.o)
+ .text.avr-libc
+                0x00000000       0x16 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(utoa.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(utoa_ncheck.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(utoa_ncheck.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(utoa_ncheck.o)
+ .text.avr-libc
+                0x00000000       0x34 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(utoa_ncheck.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtoa_prf.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtoa_prf.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtoa_prf.o)
+ .text.avr-libc
+                0x00000000      0x2be c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtoa_prf.o)
+ .comment       0x00000000       0x12 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(dtoa_prf.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtod.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtod.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtod.o)
+ .text.avr-libc
+                0x00000000      0x2a0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtod.o)
+ .progmem.data  0x00000000       0x3b c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtod.o)
+ .comment       0x00000000       0x12 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtod.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ftoa_engine.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ftoa_engine.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ftoa_engine.o)
+ .text.avr-libc
+                0x00000000      0x1b0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ftoa_engine.o)
+ .progmem.data  0x00000000       0xfa c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ftoa_engine.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(isspace.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(isspace.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(isspace.o)
+ .text.avr-libc
+                0x00000000       0x12 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(isspace.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strncasecmp_P.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strncasecmp_P.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strncasecmp_P.o)
+ .text.avr-libc
+                0x00000000       0x30 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strncasecmp_P.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strrev.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strrev.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strrev.o)
+ .text.avr-libc
+                0x00000000       0x20 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strrev.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(cmpsf2.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(cmpsf2.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(cmpsf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(cmpsf2.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(floatsisf.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(floatsisf.o)
+ .text.avr-libc.fplib
+                0x00000000       0x7a c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(floatsisf.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_cmp.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_cmp.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_cmp.o)
+ .text.avr-libc.fplib
+                0x00000000       0x48 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_cmp.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3x.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3x.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xd2 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsf3x.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(errno.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(errno.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(errno.o)
+ .comment       0x00000000       0x12 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(errno.o)
+ COMMON         0x00000000        0x2 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(errno.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(cty_isfalse.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(cty_isfalse.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(cty_isfalse.o)
+ .text.avr-libc
+                0x00000000        0x6 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(cty_isfalse.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_inf.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_inf.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_inf.o)
+ .text.avr-libc.fplib
+                0x00000000        0xc c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_inf.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_nan.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_nan.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_nan.o)
+ .text.avr-libc.fplib
+                0x00000000        0x6 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_nan.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_pscA.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_pscA.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_pscA.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_pscA.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_pscB.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_pscB.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_pscB.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_pscB.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_round.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_round.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_round.o)
+ .text.avr-libc.fplib
+                0x00000000       0x22 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_round.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_split3.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_split3.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_split3.o)
+ .text.avr-libc.fplib
+                0x00000000       0x44 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_zero.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_zero.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_zero.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fp_zero.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libatmega4809.a(eerd_byte.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libatmega4809.a(eerd_byte.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libatmega4809.a(eerd_byte.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libatmega4809.a(eewr_byte.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libatmega4809.a(eewr_byte.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libatmega4809.a(eewr_byte.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_prologue.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_prologue.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_prologue.o)
+ .text.libgcc   0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_prologue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_prologue.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_epilogue.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_epilogue.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_epilogue.o)
+ .text.libgcc   0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_epilogue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_epilogue.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_negsi2.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_negsi2.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_negsi2.o)
+ .text.libgcc   0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_negsi2.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_mulshisi3.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_mulshisi3.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_mulshisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_mulshisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_mulshisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_mulshisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_mulshisi3.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strcmp.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strcmp.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strcmp.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strncmp.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strncmp.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strncmp.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strncpy.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strncpy.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strncpy.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(snprintf.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(snprintf.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(snprintf.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(vfprintf_std.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(vfprintf_std.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(vfprintf_std.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strnlen_P.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strnlen_P.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strnlen_P.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strnlen.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strnlen.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strnlen.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fputc.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fputc.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fputc.o)
+ .text          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ultoa_invert.o)
+ .data          0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ultoa_invert.o)
+ .bss           0x00000000        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ultoa_invert.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00100000         xr
+data             0x00802000         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000009         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x802800
+                0x00004000                __RODATA_PM_OFFSET__ = 0x4000
+LOAD c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3/crtatmega4809.o
+Address of section .text set to 0x0
+LOAD .\libraries\Wire\src\utility\twi.c.o
+LOAD C:\Users\menze001\AppData\Local\Temp\ccnQcJEZ.ltrans0.ltrans.o
+LOAD .\libraries\Wire\src\Wire.cpp.o
+LOAD .\core\variant\variant.c.o
+LOAD .\Source\Calibration.cpp.o
+LOAD .\Source\ControlModule.cpp.o
+LOAD .\Source\ErrorHandler.cpp.o
+LOAD .\Source\InterBoardComm.cpp.o
+LOAD .\Source\IoModule.cpp.o
+LOAD .\Source\ObcDevSwitch.cpp.o
+LOAD .\Source\OperationModeDetection.cpp.o
+LOAD .\Source\ProtocolHandler.cpp.o
+LOAD .\Source\SerialCommunication.cpp.o
+LOAD .\Source\VersionInfo.cpp.o
+LOAD C:\SmartSVN\DevSwitchBoard\Firmware\tags\V4.0\Release/arduino.ar
+LOAD c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libm.a
+START GROUP
+LOAD c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a
+LOAD c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libm.a
+LOAD c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a
+LOAD c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libatmega4809.a
+END GROUP
+                0x00100000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x100000
+                0x0000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000009]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+                0x00008000                __RODATA_PM_OFFSET__ = DEFINED (__RODATA_PM_OFFSET__)?__RODATA_PM_OFFSET__:0x8000
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x3232
+ *(.vectors)
+ .vectors       0x00000000       0xa0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3/crtatmega4809.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x000000a0                . = ALIGN (0x2)
+                0x000000a0                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000a0        0x0 linker stubs
+ *(.trampolines*)
+                0x000000a0                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x000000a0                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000a0                __ctors_start = .
+ *(.ctors)
+ .ctors         0x000000a0        0x2 C:\Users\menze001\AppData\Local\Temp\ccnQcJEZ.ltrans0.ltrans.o
+                0x000000a2                __ctors_end = .
+                0x000000a2                __dtors_start = .
+ *(.dtors)
+                0x000000a2                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000a2        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3/crtatmega4809.o
+                0x000000a2                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000a2        0xc c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3/crtatmega4809.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000ae       0x10 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+                0x000000ae                __do_clear_bss
+ .init4         0x000000be       0x16 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+                0x000000be                __do_copy_data
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x000000d4       0x16 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+                0x000000d4                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000ea        0x8 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3/crtatmega4809.o
+ *(.init9)
+ *(.text)
+ .text          0x000000f2        0x4 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3/crtatmega4809.o
+                0x000000f2                __vector_22
+                0x000000f2                __vector_28
+                0x000000f2                __vector_1
+                0x000000f2                __vector_32
+                0x000000f2                __vector_34
+                0x000000f2                __vector_24
+                0x000000f2                __vector_12
+                0x000000f2                __bad_interrupt
+                0x000000f2                __vector_6
+                0x000000f2                __vector_31
+                0x000000f2                __vector_35
+                0x000000f2                __vector_39
+                0x000000f2                __vector_3
+                0x000000f2                __vector_23
+                0x000000f2                __vector_30
+                0x000000f2                __vector_25
+                0x000000f2                __vector_11
+                0x000000f2                __vector_13
+                0x000000f2                __vector_17
+                0x000000f2                __vector_19
+                0x000000f2                __vector_7
+                0x000000f2                __vector_27
+                0x000000f2                __vector_5
+                0x000000f2                __vector_33
+                0x000000f2                __vector_4
+                0x000000f2                __vector_9
+                0x000000f2                __vector_2
+                0x000000f2                __vector_21
+                0x000000f2                __vector_29
+                0x000000f2                __vector_8
+                0x000000f2                __vector_26
+                0x000000f2                __vector_10
+                0x000000f2                __vector_16
+                0x000000f2                __vector_18
+                0x000000f2                __vector_20
+ .text          0x000000f6     0x1834 C:\Users\menze001\AppData\Local\Temp\ccnQcJEZ.ltrans0.ltrans.o
+                0x000014a2                __vector_36
+                0x0000156a                __vector_38
+                0x000015b6                __vector_37
+                0x00001648                __vector_14
+                0x000017aa                __vector_15
+                0x0000192a                . = ALIGN (0x2)
+ *(.text.*)
+ .text.startup  0x0000192a     0x106e C:\Users\menze001\AppData\Local\Temp\ccnQcJEZ.ltrans0.ltrans.o
+                0x00001990                main
+ .text.avr-libc
+                0x00002998       0x3c c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(atoi.o)
+                0x00002998                atoi
+ .text.avr-libc
+                0x000029d4       0x4e c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(atol.o)
+                0x000029d4                atol
+ .text.avr-libc
+                0x00002a22        0xa c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtok.o)
+                0x00002a22                strtok
+ .text.avr-libc
+                0x00002a2c       0x3e c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strlcat.o)
+                0x00002a2c                strlcat
+ .text.avr-libc
+                0x00002a6a       0x4e c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtok_r.o)
+                0x00002a6a                strtok_r
+ .text.avr-libc
+                0x00002ab8       0x2a c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mulsi10.o)
+                0x00002ab8                __mulsi_const_10
+ .text.avr-libc
+                0x00002ae2       0x10 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(mul10.o)
+                0x00002ae2                __mulhi_const_10
+ .text.avr-libc
+                0x00002af2       0x10 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libatmega4809.a(eerd_byte.o)
+                0x00002af2                eeprom_read_byte
+                0x00002afa                eeprom_mapen
+ .text.avr-libc
+                0x00002b02       0x28 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libatmega4809.a(eewr_byte.o)
+                0x00002b02                eeprom_write_byte
+                0x00002b04                eeprom_write_r18
+ .text.libgcc.mul
+                0x00002b2a       0x16 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o)
+                0x00002b2a                __muluhisi3
+ .text.libgcc.prologue
+                0x00002b40       0x32 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_prologue.o)
+                0x00002b40                __prologue_saves__
+ .text.libgcc.prologue
+                0x00002b72       0x30 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_epilogue.o)
+                0x00002b72                __epilogue_restores__
+ .text.libgcc.mul
+                0x00002ba2       0x1e c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_umulhisi3.o)
+                0x00002ba2                __umulhisi3
+ .text.libgcc.div
+                0x00002bc0       0x28 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+                0x00002bc0                __udivmodhi4
+ .text.libgcc.div
+                0x00002be8       0x44 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+                0x00002be8                __udivmodsi4
+ .text.libgcc.div
+                0x00002c2c       0x2e c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o)
+                0x00002c2c                __divmodsi4
+ .text.libgcc.div
+                0x00002c5a       0x10 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_negsi2.o)
+                0x00002c5a                __negsi2
+ .text.libgcc   0x00002c6a        0xc c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_tablejump2.o)
+                0x00002c6a                __tablejump2__
+ .text.libgcc.mul
+                0x00002c76       0x10 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_mulshisi3.o)
+                0x00002c76                __mulshisi3
+                0x00002c7c                __mulohisi3
+ .text.avr-libc
+                0x00002c86       0x12 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strcmp.o)
+                0x00002c86                strcmp
+ .text.avr-libc
+                0x00002c98       0x1c c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strncmp.o)
+                0x00002c98                strncmp
+ .text.avr-libc
+                0x00002cb4       0x1e c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strncpy.o)
+                0x00002cb4                strncpy
+ .text.avr-libc
+                0x00002cd2       0x60 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(snprintf.o)
+                0x00002cd2                snprintf
+ .text.avr-libc
+                0x00002d32      0x3b4 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(vfprintf_std.o)
+                0x00002d32                vfprintf
+ .text.avr-libc
+                0x000030e6       0x16 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strnlen_P.o)
+                0x000030e6                strnlen_P
+ .text.avr-libc
+                0x000030fc       0x16 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strnlen.o)
+                0x000030fc                strnlen
+ .text.avr-libc
+                0x00003112       0x60 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fputc.o)
+                0x00003112                fputc
+ .text.avr-libc
+                0x00003172       0xbc c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(ultoa_invert.o)
+                0x00003172                __ultoa_invert
+                0x0000322e                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000322e        0x0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+                0x0000322e                _exit
+                0x0000322e                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000322e        0x4 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00003232                _etext = .
+
+.rodata         0x00007232      0x16c load address 0x00003232
+ *(.rodata)
+ .rodata        0x00007232       0xe5 C:\Users\menze001\AppData\Local\Temp\ccnQcJEZ.ltrans0.ltrans.o
+ *(.rodata*)
+ .rodata.str1.1
+                0x00007317       0x87 C:\Users\menze001\AppData\Local\Temp\ccnQcJEZ.ltrans0.ltrans.o
+ *(.gnu.linkonce.r*)
+
+.data           0x00802800       0xac load address 0x0000339e
+                0x00802800                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00802800       0xab C:\Users\menze001\AppData\Local\Temp\ccnQcJEZ.ltrans0.ltrans.o
+ *(.data*)
+ *(.gnu.linkonce.d*)
+                0x008028ac                . = ALIGN (0x2)
+ *fill*         0x008028ab        0x1 
+                0x008028ac                _edata = .
+                0x008028ac                PROVIDE (__data_end, .)
+
+.bss            0x008028ac      0x37a
+                0x008028ac                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x008028ac      0x378 C:\Users\menze001\AppData\Local\Temp\ccnQcJEZ.ltrans0.ltrans.o
+ .bss           0x00802c24        0x2 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtok.o)
+ *(.bss*)
+ *(COMMON)
+                0x00802c26                PROVIDE (__bss_end, .)
+                0x0000339e                __data_load_start = LOADADDR (.data)
+                0x0000344a                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00802c26        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00802c26                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x11
+ *(.comment)
+ .comment       0x00000000       0x12 C:\Users\menze001\AppData\Local\Temp\ccnQcJEZ.ltrans0.ltrans.o
+ .comment       0x00000000       0x11 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(strtok.o)
+                                 0x12 (size before relaxing)
+ .comment       0x00000011       0x12 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(snprintf.o)
+ .comment       0x00000011       0x12 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(vfprintf_std.o)
+ .comment       0x00000011       0x12 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libc.a(fputc.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3/crtatmega4809.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x228
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x28 C:\Users\menze001\AppData\Local\Temp\ccnQcJEZ.ltrans0.ltrans.o
+ .debug_aranges
+                0x00000028       0x20 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+ .debug_aranges
+                0x00000048       0x20 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libatmega4809.a(eerd_byte.o)
+ .debug_aranges
+                0x00000068       0x20 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libatmega4809.a(eewr_byte.o)
+ .debug_aranges
+                0x00000088       0x20 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .debug_aranges
+                0x000000a8       0x20 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .debug_aranges
+                0x000000c8       0x20 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_prologue.o)
+ .debug_aranges
+                0x000000e8       0x20 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_epilogue.o)
+ .debug_aranges
+                0x00000108       0x20 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .debug_aranges
+                0x00000128       0x20 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .debug_aranges
+                0x00000148       0x20 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .debug_aranges
+                0x00000168       0x20 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o)
+ .debug_aranges
+                0x00000188       0x20 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_negsi2.o)
+ .debug_aranges
+                0x000001a8       0x20 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .debug_aranges
+                0x000001c8       0x20 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+ .debug_aranges
+                0x000001e8       0x20 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+ .debug_aranges
+                0x00000208       0x20 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_mulshisi3.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0xac07
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x249d c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3/crtatmega4809.o
+ .debug_info    0x0000249d     0x7bac C:\Users\menze001\AppData\Local\Temp\ccnQcJEZ.ltrans0.ltrans.o
+ .debug_info    0x0000a049       0xc0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+ .debug_info    0x0000a109       0x9f c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libatmega4809.a(eerd_byte.o)
+ .debug_info    0x0000a1a8       0x9f c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libatmega4809.a(eewr_byte.o)
+ .debug_info    0x0000a247       0xc0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .debug_info    0x0000a307       0xc0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .debug_info    0x0000a3c7       0xc0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_prologue.o)
+ .debug_info    0x0000a487       0xc0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_epilogue.o)
+ .debug_info    0x0000a547       0xc0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .debug_info    0x0000a607       0xc0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .debug_info    0x0000a6c7       0xc0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .debug_info    0x0000a787       0xc0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o)
+ .debug_info    0x0000a847       0xc0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_negsi2.o)
+ .debug_info    0x0000a907       0xc0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .debug_info    0x0000a9c7       0xc0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+ .debug_info    0x0000aa87       0xc0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+ .debug_info    0x0000ab47       0xc0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_mulshisi3.o)
+
+.debug_abbrev   0x00000000     0x2fa2
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000     0x22a8 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3/crtatmega4809.o
+ .debug_abbrev  0x000022a8      0xbba C:\Users\menze001\AppData\Local\Temp\ccnQcJEZ.ltrans0.ltrans.o
+ .debug_abbrev  0x00002e62       0x14 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+ .debug_abbrev  0x00002e76       0x14 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libatmega4809.a(eerd_byte.o)
+ .debug_abbrev  0x00002e8a       0x14 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libatmega4809.a(eewr_byte.o)
+ .debug_abbrev  0x00002e9e       0x14 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .debug_abbrev  0x00002eb2       0x14 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .debug_abbrev  0x00002ec6       0x14 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_prologue.o)
+ .debug_abbrev  0x00002eda       0x14 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_epilogue.o)
+ .debug_abbrev  0x00002eee       0x14 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .debug_abbrev  0x00002f02       0x14 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .debug_abbrev  0x00002f16       0x14 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .debug_abbrev  0x00002f2a       0x14 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o)
+ .debug_abbrev  0x00002f3e       0x14 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_negsi2.o)
+ .debug_abbrev  0x00002f52       0x14 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .debug_abbrev  0x00002f66       0x14 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+ .debug_abbrev  0x00002f7a       0x14 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+ .debug_abbrev  0x00002f8e       0x14 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_mulshisi3.o)
+
+.debug_line     0x00000000     0x2eca
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x187 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3/crtatmega4809.o
+ .debug_line    0x00000187     0x22cf C:\Users\menze001\AppData\Local\Temp\ccnQcJEZ.ltrans0.ltrans.o
+ .debug_line    0x00002456       0x62 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_exit.o)
+ .debug_line    0x000024b8       0x79 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libatmega4809.a(eerd_byte.o)
+ .debug_line    0x00002531       0xc1 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3\libatmega4809.a(eewr_byte.o)
+ .debug_line    0x000025f2       0x86 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .debug_line    0x00002678       0x92 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_muluhisi3.o)
+ .debug_line    0x0000270a       0xec c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_prologue.o)
+ .debug_line    0x000027f6       0xe6 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_epilogue.o)
+ .debug_line    0x000028dc       0xb0 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_umulhisi3.o)
+ .debug_line    0x0000298c       0xce c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .debug_line    0x00002a5a      0x122 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .debug_line    0x00002b7c       0xce c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_divmodsi4.o)
+ .debug_line    0x00002c4a       0x62 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_negsi2.o)
+ .debug_line    0x00002cac       0x7a c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_tablejump2.o)
+ .debug_line    0x00002d26       0x98 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_copy_data.o)
+ .debug_line    0x00002dbe       0x92 c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_ctors.o)
+ .debug_line    0x00002e50       0x7a c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/avrxmega3\libgcc.a(_mulshisi3.o)
+
+.debug_frame    0x00000000      0x8a0
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x8a0 C:\Users\menze001\AppData\Local\Temp\ccnQcJEZ.ltrans0.ltrans.o
+
+.debug_str      0x00000000     0x3a24
+ *(.debug_str)
+ .debug_str     0x00000000      0xf8b c:/tools/sloeber-v4.4.1/arduinoplugin/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega3/crtatmega4809.o
+ .debug_str     0x00000f8b     0x2a99 C:\Users\menze001\AppData\Local\Temp\ccnQcJEZ.ltrans0.ltrans.o
+                               0x2d98 (size before relaxing)
+
+.debug_loc      0x00000000     0x4408
+ *(.debug_loc)
+ .debug_loc     0x00000000     0x4408 C:\Users\menze001\AppData\Local\Temp\ccnQcJEZ.ltrans0.ltrans.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x800
+ *(.debug_ranges)
+ .debug_ranges  0x00000000      0x800 C:\Users\menze001\AppData\Local\Temp\ccnQcJEZ.ltrans0.ltrans.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(C:\SmartSVN\DevSwitchBoard\Firmware\tags\V4.0\Release/ObcDevSwitch.elf elf32-avr)
+LOAD linker stubs
